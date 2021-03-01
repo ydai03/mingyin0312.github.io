@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-09-06 
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Happy to be a reviewer for AISTATS-2021.  

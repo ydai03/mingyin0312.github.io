@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-01-28
 inline: true
 ---
 
-A simple inline announcement.
+Oral acceptance of [Uniform OPE](https://arxiv.org/abs/2007.03760){:target="\_blank"} to AISTATS-2021! :sparkles: :smile:

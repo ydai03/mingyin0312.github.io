@@ -1,24 +1,37 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Welcome to my homepage!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Ming.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2222 Harold Frank Hall</p>
+    <p>Santa Barbara, CA 93106</p>
+    <p> ming_yin at ucsb dot edu</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ :smiley: I am a PhD student with the [Department of Statistics and Applied Probability](https://www.pstat.ucsb.edu/){:target="\_blank"} and the [Department of Computer Science](https://www.cs.ucsb.edu/){:target="\_blank"} at UC, Santa Barbara in the Statistical Machine Learning group, advised by [Dr. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/){:target="\_blank"} and [Dr. J.S. Rao](http://staff.ustc.edu.cn/~xinan/index_en.html){:target="\_blank"}. I am currently pursuing PhDs in both Departments.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in the area of statistical machine learning, e.g. reinforcement learning, optimization and statistics. My current research primarily focuses on building statistical foundations for offline reinforcement learning. I enjoy understanding the theoretical ground of different algorithms that are of practical importance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to coming to UCSB, I got my B.S. from [Applied Math at 
+University of Science and Technology of China](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="\_blank"}, where I was fortunate to work with [Dr. Lijun Bo](http://staff.ustc.edu.cn/~lijunbo/){:target="\_blank"} and [Dr. Xinan Ma](http://staff.ustc.edu.cn/~xinan/Publications_en.html){:target="\_blank"}.
+
+The primary goal of the webpage is to share my thoughts and summarize the ideas of my research. Please check the `blog` page! For the list of papers, go to [publications](/publications) page.
+
+
+
+
+
+
+
+
+
+
