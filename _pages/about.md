@@ -6,7 +6,7 @@ description: Welcome to my homepage!
 
 profile:
   align: right
-  image: Ming.jpg
+  image: prof_pic.jpg
   address: >
     <p>2222 Harold Frank Hall</p>
     <p>Santa Barbara, CA 93106</p>
