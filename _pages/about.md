@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>2222 Harold Frank Hall</p>
+    <p>Jeff & Judy Henley Hall</p>
     <p>Santa Barbara, CA 93106</p>
     <p> ming_yin at ucsb dot edu</p>
 
