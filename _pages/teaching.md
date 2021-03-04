@@ -2,17 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching 
-description: This page is still under construction.
+description: This page is still under construction. Please wait!
 nav: true
 ---
 
 Activity Teaching Talk
 
 Activity: ERSP 
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
 
 
 

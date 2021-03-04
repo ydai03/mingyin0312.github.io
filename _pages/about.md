@@ -24,7 +24,7 @@ I am fond of the broad area of statistical machine learning, e.g. reinforcement 
 Prior to coming to UCSB, I got my B.S. from [Applied Math at 
 University of Science and Technology of China](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="\_blank"}, where I worked with [Dr. Lijun Bo](http://staff.ustc.edu.cn/~lijunbo/){:target="\_blank"} and [Dr. Xinan Ma](http://staff.ustc.edu.cn/~xinan/Publications_en.html){:target="\_blank"}.
 
-The primary goal of the webpage is to share my thoughts and summarize the ideas of my research. Please check the `blog` page! For the list of papers, go to [publications](/publications) page.
+The primary goal of the webpage is to share my thoughts and summarize the ideas of my research and some topics I am interested in. Please check the `blog` page! For the list of papers, go to [publications](/publications) page.
 
 
 
