@@ -116,7 +116,7 @@ $$
 E^2=c^2P^2+const.
 $$
 
-When $P=0$, $E=E_0=m_0c^2$. Therefore we already derived
+When $$P=0$$, $$E=E_0=m_0c^2$$. Therefore we already derived
 
 \begin{equation}\label{eqn:final}
 E^2=c^2P^2+m_0^2c^4
@@ -131,7 +131,7 @@ $$
 E^2=E^2\frac{v^2}{c^2}+m_0^2c^4\Rightarrow E=\frac{m_0c^2}{\sqrt{1-\frac{v^2}{c^2}}}.
 $$
 
-Again, use $E=mc^2$, we obtain
+Again, use $$E=mc^2$$, we obtain
 
 $$
 m=\frac{m_0}{\sqrt{1-(\frac{v}{c})^2}}.
