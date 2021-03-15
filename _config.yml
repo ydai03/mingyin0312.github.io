@@ -59,7 +59,7 @@ wikidata_id: # your wikidata id
 contact_note: >
   Feel free to reach out to me! :)
 
-google_analytics: UA-192066275-1 # out your google-analytics code
+google_analytics: "UA-192066275-1" # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
