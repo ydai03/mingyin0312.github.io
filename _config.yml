@@ -42,7 +42,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: mingyin1994 # your GitHub user name
+github_username: mingyin0312 # your GitHub user name
 twitter_username: MingYin_0312 # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: ncBRYIUAAAAJ # your Google Scholar ID
@@ -59,7 +59,7 @@ wikidata_id: # your wikidata id
 contact_note: >
   Feel free to reach out to me! :)
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-192066275-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
