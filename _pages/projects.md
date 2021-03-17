@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Projects
+title: ZProject
 permalink: /projects/
-description: This page is still under construction. Please wait!
+description: This page is still under construction and something fun is going to appear. Please wait!
 nav: true
 ---
+
+
+<!---
 
 <div class="projects grid">
 
@@ -45,3 +48,5 @@ nav: true
 {% endfor %}
 
 </div>
+
+-->
