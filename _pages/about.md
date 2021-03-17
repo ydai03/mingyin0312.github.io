@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
- :smiley: I am a PhD student with the [Department of Statistics and Applied Probability](https://www.pstat.ucsb.edu/){:target="\_blank"} and the [Department of Computer Science](https://www.cs.ucsb.edu/){:target="\_blank"} at UC, Santa Barbara in the Statistical Machine Learning group, advised by [Dr. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/){:target="\_blank"}. I am also co-advised by [Dr. J.S. Rao](http://staff.ustc.edu.cn/~xinan/index_en.html){:target="\_blank"}. I am currently pursuing PhDs in both Departments.  
+ :smiley: I am a PhD student with the [Department of Statistics and Applied Probability](https://www.pstat.ucsb.edu/){:target="\_blank"} and the [Department of Computer Science](https://www.cs.ucsb.edu/){:target="\_blank"} at UC, Santa Barbara in the Statistical Machine Learning group, advised by [Dr. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/){:target="\_blank"}. I am also co-advised by [Dr. J.S. Rao](http://jammalam.faculty.pstat.ucsb.edu){:target="\_blank"}. I am currently pursuing PhDs in both Departments.  
 
 I am fond of the broad area of statistical machine learning, e.g. reinforcement learning, optimization and statistics. My current research primarily focuses on building statistical foundations for offline reinforcement learning. I enjoy understanding the theoretical ground of different algorithms that are of practical importance.
 
