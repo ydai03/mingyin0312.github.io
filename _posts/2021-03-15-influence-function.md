@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A brief introduction to Information Funtion technique
+title:  A Brief Introduction to Influence Funtion Technique
 date:   2021-03-15 
 description: Influence function technique is powerful in that it provides a way to calculate efficiency bound for the semiparameteric estimation problems. 
 
