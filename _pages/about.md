@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 I am fond of the broad area of statistical machine learning, e.g. reinforcement learning, optimization and statistics. My current research primarily focuses on building statistical foundations for offline reinforcement learning. I enjoy understanding the theoretical ground of different algorithms that are of practical importance.
 
 Prior to coming to UCSB, I got my B.S. from [Applied Math at 
-University of Science and Technology of China](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="\_blank"}, where I worked with [Dr. Lijun Bo](http://staff.ustc.edu.cn/~lijunbo/){:target="\_blank"} and [Dr. Xinan Ma](http://staff.ustc.edu.cn/~xinan/Publications_en.html){:target="\_blank"}.
+University of Science and Technology of China](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="\_blank"}, where I worked with [Dr. Lijun Bo](http://staff.ustc.edu.cn/~lijunbo/){:target="\_blank"}.
 
 The primary goal of the webpage is to share my thoughts and summarize the ideas of my research and some topics I am interested in. Please check the `Blog` page! For the list of papers, go to [Publications](/publications) page.
 
