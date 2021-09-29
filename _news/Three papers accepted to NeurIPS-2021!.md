@@ -12,7 +12,8 @@ Topics include:
 
  * <a href="https://arxiv.org/abs/2105.06029" target="blank">Optimal Uniform Convergence in OPE</a> please check <a href="https://mingyin0312.github.io/blog/2021/unified-offline-rl/" target="blank">this blog</a>!
 
- * <a href="https://mingyin0312.github.io/blog/2021/doubleVR/" target="blank">Variance Reduction in Offline Learning </a> in <a href="https://arxiv.org/abs/2102.01748" target="blank">this blog</a>;
+ * <a href="https://arxiv.org/abs/2102.01748" target="blank">Variance Reduction in Offline Learning </a> in <a href="https://mingyin0312.github.io/blog/2021/doubleVR/" target="blank">this blog</a>;
+
 
  * and <a href="" target="blank">Tight Instance-dependent Offline RL</a> (comming soon)!
 
