@@ -15,6 +15,6 @@ Topics include:
  * <a href="https://arxiv.org/abs/2102.01748" target="blank">Variance Reduction in Offline Learning </a> in <a href="https://mingyin0312.github.io/blog/2021/doubleVR/" target="blank">this blog</a>;
 
 
- * and <a href="" target="blank">Tight Instance-dependent Offline RL</a> (comming soon)!
+ * and <a href="https://arxiv.org/abs/2110.08695" target="blank">Tight Instance-dependent Offline RL</a>!
 
 
