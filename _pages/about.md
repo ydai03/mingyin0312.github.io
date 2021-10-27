@@ -19,12 +19,12 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
- :smiley: I am a PhD student with the [Department of Statistics and Applied Probability](https://www.pstat.ucsb.edu/){:target="\_blank"} and the [Department of Computer Science](https://www.cs.ucsb.edu/){:target="\_blank"} at UC, Santa Barbara in the Statistical Machine Learning group, advised by [Dr. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/){:target="\_blank"}. I am also co-advised by [Dr. J.S. Rao](http://jammalam.faculty.pstat.ucsb.edu){:target="\_blank"}. I am currently pursuing PhDs in both Departments.  
+ :smiley: I am a PhD student with the [Department of Statistics and Applied Probability](https://www.pstat.ucsb.edu/){:target="\_blank"} and the [Department of Computer Science](https://www.cs.ucsb.edu/){:target="\_blank"} at UC, Santa Barbara in the Statistical Machine Learning group, advised by [Dr. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/){:target="\_blank"}. I am also co-advised by [Dr. J.S. Rao](http://jammalam.faculty.pstat.ucsb.edu){:target="\_blank"}. I am currently pursuing PhDs in both Departments. Prior to UCSB, I got my B.S. from [Applied Math at 
+University of Science and Technology of China](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="\_blank"}, where I worked with [Dr. Lijun Bo](http://staff.ustc.edu.cn/~lijunbo/){:target="\_blank"}. 
 
 I am fond of the broad area of statistical machine learning, e.g. reinforcement learning, optimization and statistics. My current research primarily focuses on building statistical foundations for offline reinforcement learning. I enjoy understanding the theoretical ground of different algorithms that are of practical importance.
 
-Prior to coming to UCSB, I got my B.S. from [Applied Math at 
-University of Science and Technology of China](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="\_blank"}, where I worked with [Dr. Lijun Bo](http://staff.ustc.edu.cn/~lijunbo/){:target="\_blank"}.
+Recently, I start to think of how to appropriately apply deep models to make RL practical. Please stay tuned!
 
 The primary goal of the webpage is to share my thoughts and summarize the ideas of my research and some topics I am interested in. Please check the `Blog` page! For the list of papers, go to [Publications](/publications) page.
 
