@@ -24,11 +24,10 @@ nav: true
 
 {% for y in page.years_pre %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},abbr=ArXiv] %}
+  {% bibliography -f papers -q @*[year={{y}},abbr=Preprint] %}
 {% endfor %}
 
 </div>
-
 
 
 
@@ -47,7 +46,7 @@ nav: true
 
 {% for y in page.years_pub %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}},abbr!=ArXiv] %}
+  {% bibliography -f papers -q @*[year={{y}},abbr!=Preprint] %}
 {% endfor %}
 
 </div>
