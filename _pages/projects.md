@@ -1,13 +1,12 @@
 ---
 layout: page
-title: ZProject
+title: Zproject
 permalink: /projects/
-description: This page is still under construction and something fun is going to appear. Please wait!
+description: Beyond the blog page, I use this page to record all the fun and interesting results/algorithms I have seen! 
 nav: true
 ---
 
 
-<!---
 
 <div class="projects grid">
 
@@ -49,4 +48,4 @@ nav: true
 
 </div>
 
--->
+

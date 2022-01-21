@@ -1,23 +1,18 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Optimisitc Actor Critic 
+description: SOTA continuous control algorithm appear at NeurIPS 2019.
 img: /assets/img/12.jpg
 importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Optimisitc Actor Critic (OAC) is a very nice actor-critic method that handles continuous control problem. As an extension of Soft Actor Critic (SAC), it overcomes the previous *pessimistic underexploration* and *directional uninformedness* problem. All the details of this post can be found in the following paper:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+    ------------------------------------------------------------------
+    title: Better Exploration with Optimistic Actor-Critic
+    description: NeurIPS 2019
+    authors: Kamil Ciosek, Quan Vuong, Robert Loftin and Katja Hofmann
+    ------------------------------------------------------------------
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
