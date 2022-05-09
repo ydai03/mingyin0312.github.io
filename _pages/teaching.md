@@ -15,11 +15,20 @@ nav: true
 
 <br>
 
+**Big Data and Machine Learning Seminar at UCLA**
+
+<ul>
+    <li>
+    	<sup>(2022/4)</sup> Invited talk at Department of Computer Science, University of California, Los Angeles (UCLA) about my recent work on Instance-depedent offline Reinforcement Learning! See slides <a href="/assets/pdf/Instance_dependent_OfflineRL_04_22_UCLA.pdf">here</a>! 
+   </li>
+</ul>
+
+
 **Simons Institute workshop**
 
 <ul>
     <li>
-    	<sup>(2020/12)</sup> My paper <a href="https://arxiv.org/abs/2007.03760">Near-optimal Provable Uniform Convergence in Offline Policy Evaluation for Reinforcement Learning</a> is presented at <a href="https://simons.berkeley.edu/workshops/rl-2020-3">Reinforcement Learning from Batch Data and Simulation workshop</a> at <a href="https://simons.berkeley.edu">Simons Institute</a>. See details <a href="https://simons.berkeley.edu/talks/tbd-243">here</a>!
+        <sup>(2020/12)</sup> My paper <a href="https://arxiv.org/abs/2007.03760">Near-optimal Provable Uniform Convergence in Offline Policy Evaluation for Reinforcement Learning</a> is presented at <a href="https://simons.berkeley.edu/workshops/rl-2020-3">Reinforcement Learning from Batch Data and Simulation workshop</a> at <a href="https://simons.berkeley.edu">Simons Institute</a>. See details <a href="https://simons.berkeley.edu/talks/tbd-243">here</a>!
    </li>
 </ul>
 
